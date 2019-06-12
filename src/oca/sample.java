@@ -1,7 +1,6 @@
 package oca;
-
-public class test {
+public class sample {
 	public static void main(String[] args) {
-		System.out.println("Welcome");
+		test.main(args);;
 	}
 }
